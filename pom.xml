@@ -11,7 +11,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<openjpa.version>2.1.1</openjpa.version>
+		<openjpa.version>2.2.2</openjpa.version>
 	</properties>
 
 	<dependencies>
